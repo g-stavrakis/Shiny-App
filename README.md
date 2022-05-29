@@ -1,3 +1,5 @@
+<img src="/App/www/Quasar.jpg" width="900" height="500">
+
 # Stellar objects classifier
 
 This app created as a classifier that uses decision tree and random forrest methods in order to classify stellar objects into 3 classes: Stars, Galaxies or Quasars.
