@@ -6,6 +6,8 @@ This app created as a classifier that uses decision tree and random forrest meth
 
 The aim of this app is to present to clients with little knowledge about machine learning, on how these two methods work and what are the outcomes of the analysis of the chosen training data.
 
+🖥 You can see the app [here](http://7a8crc-george-stavrakis.shinyapps.io/Star_Classifier_App)! 👈
+
 # Dataset
 
 The dataset based on which the classifier was build upon can be found in Kaggle in this [link](https://www.kaggle.com/datasets/fedesoriano/stellar-classification-dataset-sdss17).
